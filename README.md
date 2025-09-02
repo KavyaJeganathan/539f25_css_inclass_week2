@@ -1,2 +1,2 @@
-# 539f25_css_inclass_week2
-Kavya's week 2 in class activity
+# Intro to CSS Activity
+Week 2 or 3 in-class exercises for intro to CSS
